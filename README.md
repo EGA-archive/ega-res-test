@@ -5,7 +5,7 @@ This application tests the res and other dependent services.
 ## Table of Contents
 
 - [Prerequisites](#Prerequisites)
-- [How to run](#How to run)
+- [How to run](#How-to-run)
 
 ## Prerequisites
 
